@@ -17,6 +17,9 @@ So much to explore and fun with fully flexible and dynamic dashboard functionali
 
 
 Hope this beautiful visualiuzation gives you the mesmerizing view of the analysis.
+
 Thank You
+
 Vikash Kumar Gupta
+
 vk.gupta1324@gmail.com
