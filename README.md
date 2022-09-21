@@ -1,12 +1,12 @@
 # AnalyzingTheCustomerAcrossUK
-This Tableau work represnt a dashboard for customers across United Kingdom. Through this dashboard we can visualize the various pattern on the basis of
+This Tableau work represents a dashboard for customers across the United Kingdom. Through this dashboard, we can visualize the various pattern of customers on the basis of:- 
 1. Country,
-2. Distribution by balance available in the customers bank account,
+2. Distribution by balance available in the customer's bank account,
 3. Distribution by age mentioned in the bank details,
 4. Gender Percentange(M/F)
 5. Job Classification
 
-Not only you can see all the countries data all toghter but I make the things little more intresting as we know there are many countries comes under United Kingdom. Here, in my dashboard we have 4 State of Province/Country named:- 
+Not only you can see all the countries data all toghter but I make the things little more intresting as we know there are many countries comes under United Kingdom. Here, in my dashboard, we have 4 States of Province/Country named:- 
 1. England, 
 2. Northern Ireland,
 3. Scotland and 
